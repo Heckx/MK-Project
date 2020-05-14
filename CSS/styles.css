@@ -1,0 +1,27 @@
+body{
+  background-color: #D05EBC
+}
+h1{
+  position: relative;
+  align-self: center;
+  text-decoration: none;
+  color: #C87878;
+
+}
+.lunch{
+  display: block;
+  position: relative;
+
+}
+
+.dinner{
+  display: block;
+  position: relative;
+
+}
+
+.drink {
+  display: block;
+  position: relative;
+  align-content: center;
+}
